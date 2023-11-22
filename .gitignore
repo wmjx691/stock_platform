@@ -1,0 +1,8 @@
+# .gitignore
+
+# ignore folder
+.ipynb_checkpoints
+CustomTkinter-master/**
+
+# ignore file
+CustomTkinter-master.zip
